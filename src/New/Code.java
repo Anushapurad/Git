@@ -7,10 +7,12 @@ public class Code {
 	public void reverse()
 	{
 		String s="My name";
-		String[] rev=s.split("");
+		String[] s1=s.split("");
+		String rev="";		
 		for(int i=s.length()-1;i>=0;i--)
 		{
-			System.out.println(rev);
+			System.out.println(s1);
+			
 		}
 	}
 
