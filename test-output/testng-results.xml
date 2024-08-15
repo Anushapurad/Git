@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-14T14:34:01 IST" name="Default suite" finished-at="2024-08-14T14:34:01 IST" duration-ms="71">
+  <suite started-at="2024-08-15T14:12:22 IST" name="Default suite" finished-at="2024-08-15T14:12:22 IST" duration-ms="69">
     <groups>
     </groups>
-    <test started-at="2024-08-14T14:34:01 IST" name="Default test" finished-at="2024-08-14T14:34:01 IST" duration-ms="71">
-      <class name="New.Code">
-        <test-method signature="reverse()[pri:0, instance:New.Code@a3d8174]" started-at="2024-08-14T14:34:01 IST" name="reverse" finished-at="2024-08-14T14:34:01 IST" duration-ms="11" status="PASS">
+    <test started-at="2024-08-15T14:12:22 IST" name="Default test" finished-at="2024-08-15T14:12:22 IST" duration-ms="69">
+      <class name="New.print">
+        <test-method signature="create()[pri:0, instance:New.print@a3d8174]" started-at="2024-08-15T14:12:22 IST" name="create" finished-at="2024-08-15T14:12:22 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- reverse -->
-      </class> <!-- New.Code -->
+        </test-method> <!-- create -->
+      </class> <!-- New.print -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
